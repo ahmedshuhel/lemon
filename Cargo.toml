@@ -1,0 +1,8 @@
+[package]
+name = "lemon"
+version = "0.1.0"
+authors = ["Shuhel Ahmed <shuhel@ymail.com>"]
+edition = "2018"
+
+[dependencies]
+clipboard = "0.5.0"
